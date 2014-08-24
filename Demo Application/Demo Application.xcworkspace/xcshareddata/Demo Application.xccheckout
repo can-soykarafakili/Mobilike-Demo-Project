@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97D34A67-B7F2-4899-A612-CC621B50B998</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Demo Application</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>37D4E7F4-595A-426E-A7DB-25ABC34A03DE</key>
+		<string>https://github.com/can-soykarafakili/Mobilike-Demo-Project.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo Application/Demo Application.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>37D4E7F4-595A-426E-A7DB-25ABC34A03DE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/can-soykarafakili/Mobilike-Demo-Project.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>37D4E7F4-595A-426E-A7DB-25ABC34A03DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>37D4E7F4-595A-426E-A7DB-25ABC34A03DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Mobilike-Demo-Project</string>
+		</dict>
+	</array>
+</dict>
+</plist>

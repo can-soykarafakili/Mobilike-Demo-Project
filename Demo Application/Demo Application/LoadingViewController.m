@@ -77,7 +77,7 @@
                                       lang:nil
                                     locale:nil
                                 resultType:@"recent"
-                                     count:@"10"
+                                     count:@"100"
                                      until:nil
                                    sinceID:nil
                                      maxID:nil
