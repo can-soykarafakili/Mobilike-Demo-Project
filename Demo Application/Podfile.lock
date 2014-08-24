@@ -1,0 +1,16 @@
+PODS:
+  - MONActivityIndicatorView (0.0.1)
+  - STTwitter (0.1.4)
+  - VBPieChart (0.2.0)
+
+DEPENDENCIES:
+  - MONActivityIndicatorView (~> 0.0)
+  - STTwitter (~> 0.1)
+  - VBPieChart (~> 0.2)
+
+SPEC CHECKSUMS:
+  MONActivityIndicatorView: 728965121e59cef32c1bc4676f6868e35f3c8c61
+  STTwitter: 809f63f856341fdd103fbc6d9e4818d48a91be0c
+  VBPieChart: 070ab7956ffd52807f6c932b5fb363bed276f7b6
+
+COCOAPODS: 0.33.1

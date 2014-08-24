@@ -1,0 +1,3 @@
+pod 'STTwitter', '~> 0.1'
+pod 'MONActivityIndicatorView', '~> 0.0'
+pod 'VBPieChart', '~> 0.2'
